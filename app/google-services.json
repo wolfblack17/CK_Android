@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248924420281",
+    "project_id": "btapgiuaki",
+    "storage_bucket": "btapgiuaki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248924420281:android:413f621918dca60b850368",
+        "android_client_info": {
+          "package_name": "com.example.gkandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248924420281-arketdv8b3nohsjk336cvkhubkus8rv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkfwPswUn7Am9mcY0yoa0LzpMWjkAcuGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248924420281-arketdv8b3nohsjk336cvkhubkus8rv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
